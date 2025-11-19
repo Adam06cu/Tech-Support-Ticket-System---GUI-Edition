@@ -1,3 +1,25 @@
+/*---------------------------------------------------
+
+Name:  Ian Sanz, Eric Castro Leyva, Adam Martinez
+
+COP 2805C - Java Programming 2
+
+Fall 2025 - W 5:30 PM - 8:50 PM
+
+Assignment # 4
+
+Plagiarism Statement
+
+I certify that this assignment is my own work and that I have not
+copied in part or whole or otherwise plagiarized the work of other
+students, persons, Generative Pre-trained Generators (GPTs) or any other AI tools.
+
+I understand that students involved in academic dishonesty will face
+disciplinary sanctions in accordance with the College's Student Rights
+and Responsibilities Handbook (https://www.mdc.edu/rightsandresponsibilities)
+
+----------------------------------------------------------*/
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
